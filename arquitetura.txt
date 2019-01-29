@@ -1,10 +1,10 @@
-Nome do programa: ServiÁo de ordenaÁ„o.
+Nome do programa: Servi√ßo de ordena√ß√£o.
 
 Arquitetura e escolhas do projeto: 
-Como estou indo para o segundo semestre da graduaÁ„o, ainda n„o aprendi muita coisa. Vimos HTML5, CSS3 e JavaScript, por isso a escolha das linguagens para o projeto. 
+Como estou indo para o segundo semestre da gradua√ß√£o, ainda n√£o aprendi muita coisa. Vimos HTML5, CSS3 e JavaScript, por isso a escolha das linguagens para o projeto. 
 
-Algumas regras para o HTML precisaram ser estabelecidas. Caso o Cliente do ServiÁo de OrdenaÁ„o n„o preencher o campo "atributo1", os campos "atributo2" e "atributo3" n„o ir„o valer na estrutura condicional. Por exemplo, se o Cliente pula o "Atributo 1" e seleciona os campos do "Atributo 2" e/ou do "Atributo 3", o programa n„o ir· reconhecÍ-los.
+Algumas regras para o HTML precisaram ser estabelecidas. Caso o Cliente do Servi√ßo de Ordena√ß√£o n√£o preencher o campo "atributo1", os campos "atributo2" e "atributo3" n√£o ir√£o valer na estrutura condicional. Por exemplo, se o Cliente pula o "Atributo 1" e seleciona os campos do "Atributo 2" e/ou do "Atributo 3", o programa n√£o ir√° reconhec√™-los.
 
-No arquivo "script.js", para n„o criar uma estrutura condicional muito extensa com um comando SQL para cada uma das possibilidades de escolha do Cliente, criei uma vari·vel "order_by" que, para cada condiÁ„o atendida, È compilado um valor a mais a ela. Ao final, esta vari·vel È enviada para o comando de SELECT do SQL, criando uma tabela para mostrar o resultado obtido, conforme as especificaÁıes.
+No arquivo "script.js", para n√£o criar uma estrutura condicional muito extensa com um comando SQL, para cada uma das possibilidades de escolha do Cliente, criei uma vari√°vel "order_by" que, para cada condi√ß√£o atendida, √© concatenado um valor a mais a ela. Ao final, esta vari√°vel √© concatenada ao comando de SELECT do SQL. O comando SQL √© ent√£o executado e √© criada dinamicamente a tabela para mostrar o resultado obtido, conforme as especifica√ß√µes.
 
-Quanto ao arquivo de configuraÁ„o, eu n„o aprendi em aula ainda. Portanto, pesquisei sobre, entendi como us·-lo, mas, por hora, n„o me senti apta para desenvolver o cÛdigo desta maneira. Como eu estou estudando banco de dados agora nas fÈrias, vi que, por este caminho, eu conseguiria um melhor resultado.
+Quanto ao arquivo de configura√ß√£o, eu n√£o aprendi em aula ainda. Portanto, pesquisei sobre, entendi como us√°-lo, mas, por hora, n√£o me senti apta para desenvolver o c√≥digo desta maneira. Como eu estou estudando banco de dados agora nas f√©rias, vi que, por este caminho, eu conseguiria um melhor resultado.
