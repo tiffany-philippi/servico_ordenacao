@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+* {
+	text-align: center;
+	font-weight: lighter;
+	color: #293344;
+}
+
+a {
+	text-decoration: none;
+} 
+
+#formulario{
+	width: 30%;
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	background-color: #cfdffc;
+	margin: auto;
+	margin-top: 20px;
+	padding: 25px;
+}
